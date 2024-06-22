@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-auditor&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 😸 Random Cat Pics
-<img id="photo" src="https://thecatapi.com/api/images/get?format=src&type=gif" alt="" style="height: 400px">
+<img id="photo" src="https://cataas.com/cat/gif" alt="" style="height: 400px">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sean-auditor&icon=0&color=0)](https://visitcount.itsvg.in)
