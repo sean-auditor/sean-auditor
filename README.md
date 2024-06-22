@@ -15,6 +15,8 @@
 <img id="furina" src="https://media.tenor.com/lJguYazcV2QAAAAi/genshin-impact-furina.gif" alt="" style="display: inline"><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-auditor&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gq5w20zk88y28syoxycz1chwo&cover_image=true&theme=karaoke&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 ---
