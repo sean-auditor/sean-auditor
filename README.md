@@ -6,7 +6,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sean-auditor&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-<img id="furina" src="https://media.tenor.com/lJguYazcV2QAAAAi/genshin-impact-furina.gif" alt="" style="height: 400px">
+<img id="furina" src="https://media.tenor.com/lJguYazcV2QAAAAi/genshin-impact-furina.gif" alt="" style="display: inline">
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sean-auditor&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-auditor&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
