@@ -9,8 +9,8 @@
 <img id="furina" src="https://media.tenor.com/lJguYazcV2QAAAAi/genshin-impact-furina.gif" alt="" style="display: inline"><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-auditor&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 😸 Random Cat Pics
-<img id="photo" src="https://cataas.com/cat/gif" alt="" style="height: 400px">
+### 😸 Me when debugging
+<img id="photo" src="https://media.tenor.com/WSg2xPUgFY8AAAAM/cat-hissing.gif" alt="" style="height: 400px">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sean-auditor&icon=0&color=0)](https://visitcount.itsvg.in)
